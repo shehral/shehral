@@ -54,6 +54,20 @@ Leading interdisciplinary AI research initiatives focused on:
   
 ![Shehral's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehral&show_icons=true&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=shehral&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shehral&color=blueviolet&style=flat)
+
+</div>
+
+### 📈 Activity & Contributions
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shehral&theme=redical)
+
+![Current Year Stats](https://github-readme-stats.vercel.app/api?username=shehral&show_icons=true&theme=radical&hide_title=true&hide_rank=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 </div>
 
 ### 🔬 Research & Development Focus
