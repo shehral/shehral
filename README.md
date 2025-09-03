@@ -33,8 +33,8 @@ Leading interdisciplinary AI research initiatives focused on:
 - **Traffic Modeling**: Advanced particle-based car representation
 
 **Recent Highlights:**
-- 2025 Graduate Research Award winner (Lana Do)
-- Presented NurseTown at IEEE Conference on Artificial Intelligence (CAI) 2025
+- Won 2025 Silicon Valley Rising Star Award
+
 
 ## 💻 Tech Stack
 
