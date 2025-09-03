@@ -109,5 +109,5 @@ I'm always excited to discuss:
 ---
 
 <div align="center">
-  <i>Last updated: September 2025</i>
+  <i>Last updated: June 2025</i>
 </div>
